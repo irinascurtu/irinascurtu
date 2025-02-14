@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Irina Scurtu**, a technologist passionate about .NET and the world around it. I enjoy sharing knowledge through blogging, speaking, and online courses.
+I'm **Irina Dominte(Scurtu)**, a technologist passionate about .NET and the world around it. I enjoy sharing knowledge through blogging, speaking, and online courses.
 You can find me at various tech conferences giving workshops and talks.
 
 ## 🚀 About Me
@@ -13,7 +13,7 @@ You can find me at various tech conferences giving workshops and talks.
 - 📝 Blog: [irina.codes](https://irina.codes/)
 - 👥 LinkedIn: [Irina Scurtu](https://www.linkedin.com/in/irinascurtu/)
 - 📺 Dometrain Courses: [Irina Scurtu on Dometrain](https://dometrain.com/author/irina-scurtu/)
-- 💾 GitHub: [wcabus](https://github.com/irinascurtu)
+- 💾 GitHub: [irinascurtu](https://github.com/irinascurtu)
 - 🐦 Bluesky: [irina.codes](https://bsky.app/profile/irina.codes)
 - 🐦 Twitter/X: [irina_scurtu](https://x.com/irina_scurtu)
 
