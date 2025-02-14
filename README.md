@@ -12,7 +12,7 @@ You can find me at various tech conferences giving workshops and talks.
 ## 🌍 Where to Find Me
 - 📝 Blog: [irina.codes](https://irina.codes/)
 - 👥 LinkedIn: [Irina Scurtu](https://www.linkedin.com/in/irinascurtu/)
-- 📺 Dometrain Courses: [Irina Scurtu on Dometrain](https://dometrain.com/author/irina-scurtu/)
+- 📺 Dometrain Courses: [Irina Scurtu on Dometrain](https://dometrain.com/author/irina-scurtu/#my_courses)
 - 💾 GitHub: [irinascurtu](https://github.com/irinascurtu)
 - 🐦 Bluesky: [irina.codes](https://bsky.app/profile/irina.codes)
 - 🐦 Twitter/X: [irina_scurtu](https://x.com/irina_scurtu)
